@@ -1,0 +1,28 @@
+{
+  "name": "webpack-config-babel",
+  "version": "0.0.0",
+  "description": "Reusable Webpack config for Babel.",
+  "license": "MIT",
+  "repository": "egoist/webpack-config-babel",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "echo lol"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "webpack-config-safetify": "^1.0.1"
+  }
+}
