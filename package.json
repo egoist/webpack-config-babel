@@ -1,9 +1,9 @@
 {
-  "name": "webpack-config-babel",
+  "name": "webpack-config-babel6",
   "version": "0.0.1",
   "description": "Reusable Webpack config for Babel.",
   "license": "MIT",
-  "repository": "egoist/webpack-config-babel",
+  "repository": "egoist/webpack-config-babel6",
   "author": {
     "name": "EGOIST",
     "email": "0x142857@gmail.com",
